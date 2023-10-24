@@ -15,7 +15,7 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 1px auto 0;
+  margin: 0 auto -1px;
 }
 
 @media (max-width: 1199px) {
@@ -28,7 +28,7 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
-    margin-bottom: 60px;
+    margin-top: 60px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 23px;
