@@ -10,43 +10,4 @@
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 33px;
-}
-
-.u-section-2 .u-text-1 {
-  margin: 0 auto -1px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    height: 39px;
-    font-weight: normal;
-    line-height: 2;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-text-1 {
-    margin-top: 60px;
-  }
-}.u-section-3 .u-sheet-1 {
-  min-height: 23px;
-}
-
-.u-section-3 .u-text-1 {
-  margin: 1px auto;
-}
-
-.u-section-3 .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-text-1 {
-    height: 39px;
-    font-weight: bold;
-    line-height: 1.625;
-  }
 }
